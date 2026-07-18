@@ -13,43 +13,43 @@ message:"This is the moment of us being a Senior Highschool Student. I still rem
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (28).jpg"
+    src:"1 (28).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (109).jpg"
+    src:"1 (109).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (91).jpg"
+    src:"1 (91).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (54).jpg"
+    src:"1 (54).jpg"
 },
 {
     type:"video",
-    src:"VIDEOS/AQMUPmDaxFnL5ffKWlfIf0NukRMIoDaYfe0FYvkyn2Pag20NOKODjwerW1wJT14-BBfm_E-DRTQg8Bx_CbFrFDslfvEsrgvwTQxOTeeCIA.mp4"
+    src:"AQMUPmDaxFnL5ffKWlfIf0NukRMIoDaYfe0FYvkyn2Pag20NOKODjwerW1wJT14-BBfm_E-DRTQg8Bx_CbFrFDslfvEsrgvwTQxOTeeCIA.mp4"
 },
 {
     type:"image",
-    src:"PICTURES/1 (111).jpg"
+    src:"1 (111).jpg"
 },
 {
     type:"video",
-    src:"VIDEOS/AQMN5N-sgIzydZ-gYTj30B2zbBAlF-dMVio9Rm_rKRt1RIg42Gwm0T64tzP8gjXGMrLVtYGXBS4iTl30fiE2tGL4M_13gMij-dV6WPzsLA.mp4"
+    src:"AQMN5N-sgIzydZ-gYTj30B2zbBAlF-dMVio9Rm_rKRt1RIg42Gwm0T64tzP8gjXGMrLVtYGXBS4iTl30fiE2tGL4M_13gMij-dV6WPzsLA.mp4"
 },
 {
     type:"video",
-    src:"VIDEOS/2 (4).mp4"
+    src:"2 (4).mp4"
 },
 {
     type:"image",
-    src:"PICTURES/1 (94).jpg"
+    src:"1 (94).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (78).jpg"
+    src:"1 (78).jpg"
 }
 ]
 
@@ -64,11 +64,11 @@ message:"April 22, 2025, The day where our first date at SM, I know this is not 
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (34).jpg"
+    src:"1 (34).jpg"
 },
 {
     type:"video",
-    src:"VIDEOS/2 (16).mp4"
+    src:"2 (16).mp4"
 }
 ]
 
@@ -83,95 +83,95 @@ message:"Look at this cutie pictures, ang cutie cutie hanuu",
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (1).jpg"
+    src:"1 (1).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (10).jpg"
+    src:"1 (10).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (13).jpg"
+    src:"1 (13).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (14).jpg"
+    src:"1 (14).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (31).jpg"
+    src:"1 (31).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (35).jpg"
+    src:"1 (35).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (37).jpg"
+    src:"1 (37).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (43).jpg"
+    src:"1 (43).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (44).jpg"
+    src:"1 (44).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (55).jpg"
+    src:"1 (55).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (59).jpg"
+    src:"1 (59).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (63).jpg"
+    src:"1 (63).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (68).jpg"
+    src:"1 (68).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (72).jpg"
+    src:"1 (72).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (75).jpg"
+    src:"1 (75).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (76).jpg"
+    src:"1 (76).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (79).jpg"
+    src:"1 (79).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (80).jpg"
+    src:"1 (80).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (92).jpg"
+    src:"1 (92).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (102).jpg"
+    src:"1 (102).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (106).jpg"
+    src:"1 (106).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (110).jpg"
+    src:"1 (110).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (114).jpg"
+    src:"1 (114).jpg"
 }
 ]
 
@@ -186,19 +186,19 @@ message:"Happiest Birthday to this beautiful, Hardworking and Pretty Girl, I hop
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (9).jpg"
+    src:"1 (9).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (45).jpg"
+    src:"1 (45).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (114).jpg"
+    src:"1 (114).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (70).jpg"
+    src:"1 (70).jpg"
 }
 ]
 
@@ -213,27 +213,27 @@ message:"Every moments na mag kasabay tayong kumain it feels like different, bec
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (19).jpg"
+    src:"1 (19).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (39).jpg"
+    src:"1 (39).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (61).jpg"
+    src:"1 (61).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (63).jpg"
+    src:"1 (63).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (106).jpg"
+    src:"1 (106).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (118).jpg"
+    src:"1 (118).jpg"
 }
 ]
 
@@ -248,103 +248,103 @@ message:"Every dates we had tells a lot of different stories. Roblox is the firs
 media:[
 {
     type:"image",
-    src:"PICTURES/hi.jpg"
+    src:"hi.jpg"
 },
 {
     type:"image",
-    src:"PICTURES/4.jpg"
+    src:"4.jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (82).jpg"
+    src:"1 (82).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (97).jpg"
+    src:"1 (97).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (93).jpg"
+    src:"1 (93).jpg"
 },
 {
     type:"video",
-    src:"VIDEOS/2 (14).mp4"
+    src:"2 (14).mp4"
 },
 {
     type:"image",
-    src:"PICTURES/1 (30).jpg"
+    src:"1 (30).jpg"
 },
 {
     type:"video",
-    src:"VIDEOS/2 (10).mp4"
+    src:"2 (10).mp4"
 },
 {
     type:"image",
-    src:"PICTURES/1 (51).jpg"
+    src:"1 (51).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (62).jpg"
+    src:"1 (62).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (95).jpg"
+    src:"1 (95).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (8).jpg"
+    src:"1 (8).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (81).jpg"
+    src:"1 (81).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (5).jpg"
+    src:"1 (5).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (36).jpg"
+    src:"1 (36).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (18).jpg"
+    src:"1 (18).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (38).jpg"
+    src:"1 (38).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (89).jpg"
+    src:"1 (89).jpg"
 },
 {
     type:"video",
-    src:"VIDEOS/2 (7).mp4"
+    src:"2 (7).mp4"
 },
 {
     type:"image",
-    src:"PICTURES/1 (60).jpg"
+    src:"1 (60).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (108).jpg"
+    src:"1 (108).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (20).jpg"
+    src:"1 (20).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (50).jpg"
+    src:"1 (50).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (69).jpg"
+    src:"1 (69).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (100).jpg"
+    src:"1 (100).jpg"
 },
 ]
 
@@ -358,23 +358,23 @@ message:"Capybara ang isa sa pinaka lovee loveee mo and kapibaya is our first ev
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (7).jpg"
+    src:"1 (7).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (46).jpg"
+    src:"1 (46).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (32).jpg"
+    src:"1 (32).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (27).jpg"
+    src:"1 (27).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (93).jpg"
+    src:"1 (93).jpg"
 }
 ]
 
@@ -388,35 +388,35 @@ message:"Every photobooth we had is a little story of us, our smile, our laughte
 media:[
 {
     type:"image",
-    src:"PICTURES/1 (25).jpg"
+    src:"1 (25).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/poto.jpg"
+    src:"poto.jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (29).jpg"
+    src:"1 (29).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (23).jpg"
+    src:"1 (23).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (3).jpg"
+    src:"1 (3).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/hihi.jpg"
+    src:"hihi.jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (48).jpg"
+    src:"1 (48).jpg"
 },
 {
     type:"image",
-    src:"PICTURES/1 (57).jpg"
+    src:"1 (57).jpg"
 }
 
 ]
